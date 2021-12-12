@@ -1,0 +1,148 @@
+{
+        "data" : [
+                    {
+                        "id": 1,
+                        "name": "West of Tehran",
+                        "details" : "",
+                        "icon": "qrc:/assets/Map/map.svg",
+                        "type" : "class",
+                        "childrenclass" : [ {
+                                "id": 4,
+                                "name": "Hemmat 24",
+                                "details" : "",
+                                "icon": "qrc:/assets/rightsidebar/yellowcamera.svg",
+                                "type" : "subclass"
+                            },
+                            {
+                                "id": 5,
+                                "name": "Sardar 7",
+                                "details" : "",
+                                "icon": "qrc:/assets/rightsidebar/redvideocamera.svg",
+                                "type" : "subclass"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "name": "West of Tehran",
+                        "details" : "",
+                        "icon": "qrc:/assets/Map/map.svg",
+                        "type" : "class",
+                        "childrenclass" : [
+                        {
+                                "id": 6,
+                                "name": "Hemmat 24",
+                                "details" : "",
+                                "icon": "qrc:/assets/rightsidebar/yellowcamera.svg",
+                                "type" : "subclass"
+                            },
+                            {
+                                "id": 7,
+                                "name": "Sardar 7",
+                                "details" : "",
+                                "icon": "qrc:/assets/rightsidebar/redvideocamera.svg",
+                                "type" : "subclass"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "West of Tehran",
+                        "details" : "",
+                        "icon": "qrc:/assets/Map/map.svg",
+                        "type" : "class",
+                        "childrenclass" : [ {
+                                "id": 8,
+                                "name": "Hemmat 24",
+                                "details" : "General",
+                                "icon": "qrc:/assets/rightsidebar/yellowcamera.svg",
+                                "type" : "subclass"
+                            },
+                            {
+                                "id": 9,
+                                "name": "Hemmat 24",
+                                "details" : "",
+                                "icon": "qrc:/assets/rightsidebar/yellowcamera.svg",
+                                "type" : "subclass"
+                            },{
+                                "id": 10,
+                                "name": "Sardar 7",
+                                "details" : "",
+                                "icon": "qrc:/assets/rightsidebar/redvideocamera.svg",
+                                "type" : "subclass"
+                            },{
+                                "id": 12,
+                                "name": "Group 2",
+                                "details" : "",
+                                "icon": "qrc:/assets/Map/map.svg",
+                                "type" : "class",
+                                "childrenclass" : [ {
+                                        "id": 16,
+                                        "name": "Sardar 7",
+                                        "details" : "",
+                                        "icon": "qrc:/assets/rightsidebar/whitecamera.svg",
+                                        "type" : "subclass"
+                                    },
+                                    {
+                                        "id": 17,
+                                        "name": "Hemmat 24",
+                                        "details" : "",
+                                        "icon": "qrc:/assets/rightsidebar/whitevideocamera.svg",
+                                        "type" : "subclass",
+                                        "childrenclass" : [ {
+                                                "id": 16,
+                                                "name": "Sardar 7",
+                                                "details" : "",
+                                                "icon": "qrc:/assets/rightsidebar/whitecamera.svg",
+                                                "type" : "subclass",
+                                                "childrenclass" : [ {
+                                                        "id": 16,
+                                                        "name": "Sardar 7",
+                                                        "details" : "",
+                                                        "icon": "qrc:/assets/rightsidebar/whitecamera.svg",
+                                                        "type" : "subclass"
+                                                    },
+                                                    {
+                                                        "id": 17,
+                                                        "name": "Hemmat 24",
+                                                        "details" : "",
+                                                        "icon": "qrc:/assets/rightsidebar/whitevideocamera.svg",
+                                                        "type" : "subclass"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "id": 17,
+                                                "name": "Hemmat 24",
+                                                "details" : "",
+                                                "icon": "qrc:/assets/rightsidebar/whitevideocamera.svg",
+                                                "type" : "subclass"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 13,
+                                "name": "Hemmat 24",
+                                "details" : "Original",
+                                "icon": "qrc:/assets/rightsidebar/whitecamera.svg",
+                                "type" : "subclass"
+                            },{
+                                "id": 14,
+                                "name": "Sardar 7",
+                                "details" : "",
+                                "icon": "qrc:/assets/rightsidebar/greencamera.svg",
+                                "type" : "subclass"
+                            },
+                            {
+                                "id": 15,
+                                "name": "Hemmat 24",
+                                "details" : "Home",
+                                "icon": "qrc:/assets/rightsidebar/whitevideocamera.svg",
+                                "type" : "subclass"
+                            }
+                        ]
+                    }
+                ]
+}
